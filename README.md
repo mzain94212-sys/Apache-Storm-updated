@@ -3,9 +3,6 @@
 ## Overview
 A simple real-time word count project built using Apache Storm to demonstrate stream processing fundamentals.
 
-### Data Flow
-
-SentenceSpout -> SplitBolt -> CountBolt
 
 ### Example
 

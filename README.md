@@ -43,9 +43,6 @@ src/main/java/com/example/
 
 ## File Purpose
 
-**SentenceSpout**
-Emits sentences into the stream.
-
 **SplitBolt**
 Splits sentences into individual words.
 
@@ -53,7 +50,7 @@ Splits sentences into individual words.
 Counts occurrences of each word.
 
 **WordCountTopology**
-Connects and runs the topology.
+Connects and runs the topology + addded kafka Spout.
 
 ## Tech Stack
 

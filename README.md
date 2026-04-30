@@ -37,7 +37,6 @@ storm = 1
 
 ```text
 src/main/java/com/example/
-├── SentenceSpout.java
 ├── SplitBolt.java
 ├── CountBolt.java
 └── WordCountTopology.java
